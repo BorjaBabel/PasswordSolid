@@ -1,19 +1,19 @@
 package model;
 
 public class Password {
-    private String passwordValue;
+    private String password;
     private int score;
 
     public Password(String passwordValue) {
-        this.passwordValue = passwordValue;
+        this.password = passwordValue;
     }
 
-    public String getPasswordValue() {
-        return passwordValue;
+    public String getPassword() {
+        return password;
     }
 
-    public void setPasswordValue(String passwordValue) {
-        this.passwordValue = passwordValue;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public int getScore() {
@@ -25,7 +25,7 @@ public class Password {
     }
 
     public String getPasswordInfo(){
-        return "La contraseña '" + getPasswordValue()+
+        return "La contraseña '" + getPassword()+
                 "' tiene un score de: " + getScore();
     }
 }

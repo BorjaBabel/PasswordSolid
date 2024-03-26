@@ -1,4 +1,7 @@
-import functionality.PassworManagerPrinter;
+import checker.Checker;
+import checker.CheckerAbstract;
+import checker.LengthChecker;
+import functionality.PasswordManagerPrinter;
 
 import java.util.Scanner;
 
@@ -7,7 +10,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        PassworManagerPrinter printer = new PassworManagerPrinter(sc);
+        PasswordManagerPrinter printer = new PasswordManagerPrinter(sc, 12, 9);
         System.out.println(printer.processPassword());
     }
 }
