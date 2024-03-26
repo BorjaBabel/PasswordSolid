@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/es/babel/Main.java,8\b\8ba946ef6fcf814dd22ad1d1a2c6ef948475a7b0
+G
+src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+X
+(src/main/java/functionality/Checker.java,6\b\6b09e4cc75fd6b69e9fd5aebe4ade29270b39222
+W
+'src/main/java/functionality/Scorer.java,f\0\f02bb0bea00fc7922cf6bbecbcf3c2f53012b64e
+X
+(src/main/java/functionality/Printer.java,0\4\04d6c546c47e9ed2c7b49e804da3d2b8f568f86a
+Q
+!src/main/java/model/Password.java,8\1\8184d35ffd8dd378f44217cec22e894da07ca0fe
+[
++src/main/java/functionality/DataReader.java,2\8\284e056f80ff8764d98e8500aa1b27be87bb10ad
+f
+6src/main/java/functionality/PassworManagerPrinter.java,3\0\30e9979613e7799ecc6a1eb5a35c4ff14953fce2
